@@ -1,14 +1,9 @@
 # Credit Card Project
 
-This project is a web-based application for managing credit card information. It includes an HTML file for the structure, a CSS file for styling, and an `images` directory for storing related images.
-
-## Project Overview
-
-The Credit Card Project is designed to provide a user-friendly interface for managing credit card information. It includes essential HTML and CSS files to create a responsive and visually appealing web page.
+This project is a front-end animation that demostates my knowledge of css selectors and general styling of vanilla css. It includes an HTML file for the structure, a CSS file for styling, and an `images` directory for storing related images.
 
 ## Features
 
-- User-friendly interface for managing credit card information.
 - Responsive design for optimal viewing on various devices.
 - Organized project structure for easy navigation and maintenance.
 
